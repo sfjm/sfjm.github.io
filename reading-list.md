@@ -7,5 +7,5 @@ order: 3
 ---
 
 2018 计划读书：
-1. 吴军: (*智能时代*)[/2015/09/12/fourth-reading.html]
+1. 吴军: [*智能时代*]({{ site.baseurl }}{% link reading/znsd.md %})
 2. 彼得·德鲁克：*卓有成效的管理者*
