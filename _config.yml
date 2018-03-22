@@ -4,12 +4,12 @@
 # ---------------------------------------------------------------
 
 # Site
-title: NexT
+title: 简单
 subtitle:
-description:
-author: John Doe
+description: 人一切的痛苦本质上都源于对自己无能的愤怒
+author: sfjm
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
-language: en
+language: zh-Hans
 date_format: '%Y-%m-%d'
 
 # URL
@@ -83,7 +83,7 @@ keywords: "Jekyll, NexT"
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
 # Set rss to specific value if you have burned your feed already.
-rss:
+rss: false
 
 # Specify the date when the site was setup
 #since: 2015
@@ -214,6 +214,7 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 #social:
   #LinkLabel: Link
+  GitHub: https://github.com/sfjm
 
 
 # Social Links Icons
